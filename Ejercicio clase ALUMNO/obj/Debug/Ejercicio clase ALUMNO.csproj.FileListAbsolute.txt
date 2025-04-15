@@ -1,0 +1,6 @@
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio clase ALUMNO\obj\Debug\Ejercicio clase ALUMNO.csprojResolveAssemblyReference.cache
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio clase ALUMNO\bin\Debug\Ejercicio clase ALUMNO.exe.config
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio clase ALUMNO\bin\Debug\Ejercicio clase ALUMNO.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio clase ALUMNO\bin\Debug\Ejercicio clase ALUMNO.pdb
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio clase ALUMNO\obj\Debug\Ejercicio clase ALUMNO.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio clase ALUMNO\obj\Debug\Ejercicio clase ALUMNO.pdb

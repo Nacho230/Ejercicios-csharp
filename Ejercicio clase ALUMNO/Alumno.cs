@@ -21,6 +21,8 @@ namespace Ejercicio_clase_ALUMNO
 		private int legajo;
 		private double nota;
 		
+		
+			
 		public Alumno()
 		{
 		}
@@ -38,5 +40,54 @@ namespace Ejercicio_clase_ALUMNO
 		public void imprimir(){
 			Console.WriteLine("Nombre y apellido: " + nombre +" "+ apellido +"\n Edad: " + edad + "\n Legajo: " + legajo + "\n Nota: " + nota);
 		}
+		
+		public string Nombre{
+			get{
+				return nombre;
+			}
+			set{
+				nombre = value;
+			}
+		}
+		
+		public string Apellido{
+			get{
+				return apellido;
+			}
+			set{
+				apellido = value;
+			}
+		}
+		
+		public int Edad{
+			get{
+				return edad;
+			}
+			set{
+				edad = value;
+			}
+		}
+		
+		public int Legajo{
+			get{
+				return legajo;
+			}
+			set{
+				legajo = value;
+			}
+		}
+		
+		public double Nota{
+			get{
+				return nota;
+			}
+			set{
+				nota = value;
+			}
+		}
+		
+		
+		}
+		
 	}
-}
+

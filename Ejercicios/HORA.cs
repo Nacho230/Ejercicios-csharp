@@ -37,5 +37,36 @@ namespace Ejercicios
 		}
 		
 		
+		
+		public int Hora{
+			get{
+				return hora;
+			}
+			set{
+				hora = value;
+			}
+		}
+		
+		public int Minuto{
+			get{
+				return minuto;
+			}
+			set{
+				minuto = value;
+			}
+		}
+		
+		public int Segundo{
+			get{
+				return segundo;
+			}
+			set{
+				segundo = value;
+			}
+		}
+		
+		
+		
+		
 	}
 }

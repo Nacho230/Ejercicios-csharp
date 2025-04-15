@@ -1,0 +1,6 @@
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicios\bin\Debug\Ejercicios practica HORA.exe.config
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicios\bin\Debug\Ejercicios practica HORA.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicios\bin\Debug\Ejercicios practica HORA.pdb
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicios\obj\Debug\Ejercicios practica HORA.csprojResolveAssemblyReference.cache
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicios\obj\Debug\Ejercicios practica HORA.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicios\obj\Debug\Ejercicios practica HORA.pdb

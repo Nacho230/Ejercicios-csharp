@@ -1,0 +1,6 @@
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 7\obj\Debug\Ejercicio 7.csprojResolveAssemblyReference.cache
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 7\obj\Debug\Ejercicio 7.pdb

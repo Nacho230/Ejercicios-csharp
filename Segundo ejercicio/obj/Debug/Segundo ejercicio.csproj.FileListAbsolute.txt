@@ -1,0 +1,6 @@
+C:\Users\nacho\Documents\SharpDevelop Projects\Segundo ejercicio\bin\Debug\Segundo ejercicio.exe.config
+C:\Users\nacho\Documents\SharpDevelop Projects\Segundo ejercicio\bin\Debug\Segundo ejercicio.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Segundo ejercicio\bin\Debug\Segundo ejercicio.pdb
+C:\Users\nacho\Documents\SharpDevelop Projects\Segundo ejercicio\obj\Debug\Segundo ejercicio.csprojResolveAssemblyReference.cache
+C:\Users\nacho\Documents\SharpDevelop Projects\Segundo ejercicio\obj\Debug\Segundo ejercicio.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Segundo ejercicio\obj\Debug\Segundo ejercicio.pdb

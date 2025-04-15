@@ -1,0 +1,6 @@
+C:\Users\nacho\Documents\SharpDevelop Projects\Primera practica\bin\Debug\Primera practica.exe.config
+C:\Users\nacho\Documents\SharpDevelop Projects\Primera practica\bin\Debug\Primera practica.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Primera practica\bin\Debug\Primera practica.pdb
+C:\Users\nacho\Documents\SharpDevelop Projects\Primera practica\obj\Debug\Primera practica.csprojResolveAssemblyReference.cache
+C:\Users\nacho\Documents\SharpDevelop Projects\Primera practica\obj\Debug\Primera practica.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Primera practica\obj\Debug\Primera practica.pdb

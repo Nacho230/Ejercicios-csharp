@@ -1,0 +1,6 @@
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 5 practica 2\obj\Debug\Ejercicio 5 practica 2.csprojResolveAssemblyReference.cache
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 5 practica 2\bin\Debug\Ejercicio 5 practica 2.exe.config
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 5 practica 2\bin\Debug\Ejercicio 5 practica 2.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 5 practica 2\bin\Debug\Ejercicio 5 practica 2.pdb
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 5 practica 2\obj\Debug\Ejercicio 5 practica 2.exe
+C:\Users\nacho\Documents\SharpDevelop Projects\Ejercicio 5 practica 2\obj\Debug\Ejercicio 5 practica 2.pdb
